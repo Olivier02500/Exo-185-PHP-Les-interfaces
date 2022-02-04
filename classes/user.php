@@ -12,6 +12,13 @@ class user implements UserInterface
     }
 
 
+    public function getRequest($request)
+    {
+        // TODO: Implement getRequest() method.
+    }
 
-
+    public function parseRequest()
+    {
+        // TODO: Implement parseRequest() method.
+    }
 }
